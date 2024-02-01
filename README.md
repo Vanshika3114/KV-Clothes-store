@@ -46,7 +46,7 @@ To improve store sales, the following strategies are recommended:
 
 Targeting women customers in the 30-49 age group residing in Maharashtra, Karnataka, and Uttar Pradesh through strategic advertisements, offers, and coupons on Amazon, Flipkart, and Myntra is recommended for improving store sales in 2024.
 ## Screenshots
-![Formatted Excel](https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_excel.png)
+![Formatted Excel](https://github.com/Vanshika3114/KV-Clothes-store/blob/main/KV%20Clothes%20Store%20Excel%20project.png)
 *Screenshot displaying a pivot table created during analysis.*
 
 ---
